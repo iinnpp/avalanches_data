@@ -14,7 +14,7 @@ Ring network:
 Each dataset folder includes:
 .mat files,
 .jpg with generated figures,
-readme.txt with the distribution of stored data.
+readme.txt with the discription of stored data.
 
 IMPORTANT: datasets should be in the subfolder data in source code directory
  
